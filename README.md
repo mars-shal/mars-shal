@@ -9,17 +9,15 @@
 
 ---
 
-Michael is a React developer and Computer Engineering student at Bells University of Technology, with a portfolio of self-built, production-deployed applications. He has experience in integrating REST APIs and designing component-based UIs, demonstrating a hands-on approach to front-end development. Michael is eager to contribute his skills to a fast-moving product team.
+I'm a React developer and Computer Engineering student at Bells University of Technology, with a portfolio of self-built, production-deployed applications. He has experience in integrating REST APIs and designing component-based UIs, demonstrating a hands-on approach to front-end development. Michael is eager to contribute his skills to a fast-moving product team.
 
 ---
 
 - 🔭 Currently working as **Software Developer** at **Krave.ng**
 - 🌱 Learning: **Mobile development best practices and advanced state management techniques**
-- 💬 Ask me about: **React development, API integration, and UI/UX design**
 - 📍 Based in: **Nigeria**
 - 📫 Reach me: [ietorobong@gmail.com](mailto:ietorobong@gmail.com)
-- ⚡ Fun fact: Michael has built several personal projects, including a productivity app and an AI chatbot.
-
+- ⚡ Fun fact: I'm quite a **Workaholic**
 ---
 
 ### ☕ Support Me
