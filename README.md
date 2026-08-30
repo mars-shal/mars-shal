@@ -1,11 +1,27 @@
-# Atomic Wizard
-### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=AtomicPositron&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AtomicPositron&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicPositron&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
-[![roadmap.sh](https://roadmap.sh/card/tall/668d61d68896c6f50b2257ac?variant=dark)](https://roadmap.sh)
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mars.shall) 
+<h3 align="center">👋 Hi there, I'm Michael E. Ibia</h3>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://marsshall-portfolio.vercel.app/">Website</a> •
+  <a href="https://twitter.com/">Twitter</a> •
+  <a href="https://linkedin.com/in/">LinkedIn</a> •
+  <a href="https://github.com/atomicpositron">GitHub</a>
+</p>
+
+---
+
+Michael is a React developer and Computer Engineering student at Bells University of Technology, with a portfolio of self-built, production-deployed applications. He has experience in integrating REST APIs and designing component-based UIs, demonstrating a hands-on approach to front-end development. Michael is eager to contribute his skills to a fast-moving product team.
+
+---
+
+- 🔭 Currently working as **Software Developer** at **Krave.ng**
+- 🌱 Learning: **Mobile development best practices and advanced state management techniques**
+- 💬 Ask me about: **React development, API integration, and UI/UX design**
+- 📍 Based in: **Nigeria**
+- 📫 Reach me: [ietorobong@gmail.com](mailto:ietorobong@gmail.com)
+- ⚡ Fun fact: Michael has built several personal projects, including a productivity app and an AI chatbot.
+
+---
+
+### ☕ Support Me
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/Mars.shall)
