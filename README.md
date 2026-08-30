@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Michael E. Ibia</h3>
+<h1 align="center">👋 Hi there, I'm Michael E. Ibia</h1>
 
 <p align="center">
   <a href="https://marsshall-portfolio.vercel.app/">Website</a> •
